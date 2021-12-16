@@ -1,0 +1,41 @@
+<!DOCTYPE html >
+< html  lang =" en " dir =" ltr " >
+  < tête >
+    < meta  charset =" utf-8 " >
+    < titre > LAB2.1 </ titre >
+    < style  media =" écran " >
+      en-tête {
+        couleur d'arrière-plan :  # cacccc ;
+        taille de police :  30 px ;
+        font-weight : gras;
+        padding-bottom :  40 px ;
+      }
+      . gauche {
+        flotteur : gauche ;
+        largeur :  200 px ;
+        couleur de fond :  # C8FC98 ;
+        marge supérieure :  0 ;
+        hauteur de ligne :  25 px ;
+      }
+      # px de gauche {
+        font-style : italique;
+        couleur : rouge ;
+      }
+    </ style >
+  </ tête >
+  < corps >
+    < en- tête >
+      < p > CSS Liquid Layout #2.1- (Fixed-Fluid) </ p >
+    </ en- tête >
+    < principal >
+      < div  classe =" gauche " >
+        < b > Colonne de gauche : < span  id =" leftpx " > 200px </ span > </ b > </ br >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis libero lacinia, dictum nulla quis, lobortis turpis. Quisque auctor porta convallis. Proin vulputate placerat lectus et imperdiet. Donec pulvinar tempor posuere. Fusce nibh dolor, ornare vel egestas in, condimentum vel mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam ac eleifend dui. Présent malesuada sagittis odio vitae gravida. Donec sodales diam turpis, sed blandit ante bibendum sed. Vestibulum feugiat lectus a felis porttitor, id cursus purus ultricies. Nulla molestie pulvinar ipsum, eget fermentum urna ullamcorper non. In lacinia nisi at elit efficitur, ut congue nulla tempus. Donec et urna varius, efficitur felis at, blandit elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin quis convallis nibh, eget interdum turpis.
+      </ div >
+      < div  id =" contenu " >
+        < b > Colonne de contenu : < span  id =" leftpx " > Fluide </ span > </ b >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis libero lacinia, dictum nulla quis, lobortis turpis. Quisque auctor porta convallis. Proin vulputate placerat lectus et imperdiet. Donec pulvinar tempor posuere. Fusce nibh dolor, ornare vel egestas in, condimentum vel mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam ac eleifend dui. Présent malesuada sagittis odio vitae gravida. Donec sodales diam turpis, sed blandit ante bibendum sed. Vestibulum feugiat lectus a felis porttitor, id cursus purus ultricies. Nulla molestie pulvinar ipsum, eget fermentum urna ullamcorper non. In lacinia nisi at elit efficitur, ut congue nulla tempus. Donec et urna varius, efficitur felis at, blandit elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin quis convallis nibh, eget interdum turpis.
+      </ div >
+    </ principal >
+  </ corps >
+</ html >
